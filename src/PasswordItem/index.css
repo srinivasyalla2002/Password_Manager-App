@@ -1,0 +1,63 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  padding: 4px 20px;
+  border: 1px solid #b6c3ca;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+
+.initial-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: #10b981;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.initial {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.name-container {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.website-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  margin-left: auto;
+}
+
+.delete-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.stars-img {
+  width: 150px;
+}
